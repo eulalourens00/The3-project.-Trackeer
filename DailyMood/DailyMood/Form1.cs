@@ -1,8 +1,8 @@
 namespace DailyMood
 {
-    public partial class Form1 : Form
+    public partial class LettersForm : Form
     {
-        public Form1()
+        public LettersForm()
         {
             InitializeComponent();
         }
